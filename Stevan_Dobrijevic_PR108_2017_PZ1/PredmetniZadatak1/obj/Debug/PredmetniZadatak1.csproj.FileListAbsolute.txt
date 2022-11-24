@@ -1,0 +1,51 @@
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe.config
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.pdb
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\AddTextDraw.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\EllipseDraw.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniObjekat.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniText.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\PolygonDraw.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\App.g.cs
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.cache
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.lref
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\AddTextDraw.baml
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\EllipseDraw.baml
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniObjekat.baml
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniText.baml
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\PolygonDraw.baml
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.g.resources
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.Properties.Resources.resources
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.GenerateResource.cache
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.exe
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.pdb
+C:\Users\steva\Documents\FTN\GRAFIKA\PROJEKTI 2021-2022\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csprojAssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe.config
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.pdb
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\AddTextDraw.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\EllipseDraw.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniObjekat.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniText.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\PolygonDraw.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\App.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.lref
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\AddTextDraw.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\EllipseDraw.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniObjekat.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\IzmeniText.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\Oblici\PolygonDraw.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.g.resources
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.Properties.Resources.resources
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.GenerateResource.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.exe
+C:\Users\stevan\Desktop\New folder\grafika\PZ1 POSLEDNJA VERZIJA 25 bodova\Stevan_Dobrijevic_PR108_2017_PZ1\Stevan_Dobrijevic_PR108_2017_PZ1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.pdb
